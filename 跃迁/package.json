@@ -1,0 +1,21 @@
+{
+  "name": "跃迁读书笔记",
+  "version": "1.0.0",
+  "description": "跃迁读书笔记",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-editlink": "^1.0.2",
+    "gitbook-plugin-page-treeview": "^2.9.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenningsloy318/BookNotes.git"
+  },
+  "author": "Jennings Liu",
+  "homepage": "https://github.com/jenningsloy318/BookNotes#readme"
+}
