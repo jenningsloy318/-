@@ -1,0 +1,20 @@
+{
+    "title": "精进 读书笔记",
+    "author": "Jennings Liu",
+    "gitbook": ">= 3.2.2",
+    "language": "zh-cn",
+    "plugins": [
+        "github",
+        "page-treeview",
+        "copy-code-button" ],
+    "pluginsConfig": {
+        "page-treeview": {
+            "copyright": "Copyright  Jennings Liu",
+            "minHeaderCount": "2",
+            "minHeaderDeep": "2"
+        },
+        "github": {
+            "url": "https://github.com/jenningsloy318/BookNotes"
+        }
+    }
+}
